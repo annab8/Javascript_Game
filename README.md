@@ -2,5 +2,5 @@
 
 HTML - CSS - Javascript - jQuery
 
-![Uploading initial_game.png…]()
+images/initial_game.png
 
