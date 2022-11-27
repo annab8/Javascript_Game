@@ -2,5 +2,5 @@
 
 HTML - CSS - Javascript - jQuery
 
-images/initial_game.png
+![alt text](images/initial_game.png)
 
